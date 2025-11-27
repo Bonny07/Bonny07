@@ -4,13 +4,13 @@ CS & AI student interested in semantic reasoning, decision support systems, and 
 
 ## 👨‍🎓 About me
 
-- 🎓 Senior student majoring in Computer Science and Technology at Shanghai Jianqiao University  
+- 🎓 Senior student majoring in Computer Science and Technology  
 - 🌏 Spent a summer at UC Berkeley studying digital infrastructure and data centers  
 - 🤖 Interested in AI applications, data analysis, and intelligent systems that connect research with real products  
 - 🧠 Currently focusing on semantic reasoning and intelligent decision support systems based on large language models
 
 *中文简介：*  
-我是一名计算机科学与技术专业的大四学生，喜欢把「算法 + 数据 + 工程实现」结合起来做真正能被使用的系统。  
+我是一名计算机科学与技术专业的学生，喜欢把「算法 + 数据 + 工程实现」结合起来做真正能被使用的系统。  
 目前主要在做基于大语言模型的语义推理与智能决策支持系统，以及超市/仓储场景下的智能库存管理平台。
 
 ---
@@ -74,5 +74,5 @@ CS & AI student interested in semantic reasoning, decision support systems, and 
 
 ## 📫 How to reach me
 
-- 📧 Email: `bonny2992352480@gmail.com`
+
 - 💬 Feel free to open an issue or discussion if you want to chat about AI + applications.
